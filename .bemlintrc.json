@@ -1,0 +1,8 @@
+{
+  "elementDivider": "__",
+  "modifierDivider": "--",
+  "ignore": [
+    "node_modules",
+    "dist"
+  ]
+}
